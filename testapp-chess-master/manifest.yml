@@ -1,0 +1,7 @@
+---
+domain: [change]
+applications:
+ - name: chess
+   memory: 32m
+   host: chess
+   instances: 1
